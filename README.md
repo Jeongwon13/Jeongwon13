@@ -1,5 +1,14 @@
- <img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat&logo=TypeScript&logoColor=white"/>
-
+  {
+        "idx": 0,
+        "color": {
+            "0" : "F8B195",
+            "50" : "F67280",
+            "100" : "C06C84"
+        },
+        "text": "f7f5f5",
+        "textBg": "282829"
+    }
+    
 ### Hi there 👋
 
 <!--
